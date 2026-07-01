@@ -869,7 +869,7 @@
         <div class="contact-icon"><i class="fas fa-envelope"></i></div>
         <div class="contact-item-text">
           <div class="label">Email</div>
-          <a href="mailto:abhishek.yadav@email.com">abhishekmotiwali@email.com</a>
+          <a href="mailto:abhishek.yadav@gmail.com">abhishekmotiwali@gmail.com</a>
         </div>
       </div>
       <div class="contact-item">

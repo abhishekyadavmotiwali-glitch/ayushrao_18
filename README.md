@@ -602,7 +602,73 @@
     </div>
   </div>
 </section>
+<section id="education">
+    <div class="sec-label">Education</div>
+    <h2 class="sec-title">My academic <span>journey</span></h2>
+    <p class="sec-desc">Formal education along with additional professional certifications.</p>
 
+    <div class="edu-timeline">
+      <div class="edu-item">
+        <div class="edu-dot"></div>
+        <div class="edu-meta">
+          <div>
+            <div class="edu-degree">Bachelor of Computer Applications (BCA)</div>
+            <div class="edu-school">Commerce College, Jaipur</div>
+          </div>
+          <div class="edu-year">2024 – Present</div>
+        </div>
+        <div class="edu-score">Currently pursuing</div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-dot"></div>
+        <div class="edu-meta">
+          <div>
+            <div class="edu-degree">Class 12th (Senior Secondary)</div>
+            <div class="edu-school">RBSE (Rajasthan Board of Secondary Education)</div>
+          </div>
+          <div class="edu-year">2024</div>
+        </div>
+        <div class="edu-score">Percentage: <b>87.40%</b></div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-dot"></div>
+        <div class="edu-meta">
+          <div>
+            <div class="edu-degree">Class 10th (Secondary)</div>
+            <div class="edu-school">RBSE (Rajasthan Board of Secondary Education)</div>
+          </div>
+          <div class="edu-year">2022</div>
+        </div>
+        <div class="edu-score">Percentage: <b>86.83%</b></div>
+      </div>
+    </div>
+
+    <div class="cert-grid">
+      <div class="cert-card">
+        <div class="cert-icon"><i class="fa-solid fa-code"></i></div>
+        <div>
+          <h4>Web Designing</h4>
+          <p>Certified professional course</p>
+        </div>
+      </div>
+      <div class="cert-card">
+        <div class="cert-icon"><i class="fa-solid fa-user-shield"></i></div>
+        <div>
+          <h4>Ethical Hacking</h4>
+          <p>Certified professional course</p>
+        </div>
+      </div>
+      <div class="cert-card">
+        <div class="cert-icon"><i class="fa-solid fa-bullhorn"></i></div>
+        <div>
+          <h4>Digital Marketing</h4>
+          <p>Certified professional course</p>
+        </div>
+      </div>
+    </div>
+  </section>
 <!-- SKILLS -->
 <section id="skills">
   <div class="skills-header reveal">

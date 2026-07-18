@@ -523,7 +523,7 @@ footer p{color:var(--text2);font-size:.78rem}
 @media(max-width:1020px){.svcgrid{grid-template-columns:repeat(2,1fr)}.educards{grid-template-columns:1fr 1fr}}
 @media(max-width:860px){.hero-grid{grid-template-columns:1fr;gap:44px;text-align:center}.profile-card{max-width:340px;margin:0 auto}.hbtns{justify-content:center}.hstats{justify-content:center}.agrid{grid-template-columns:1fr;gap:32px}.cwrap{grid-template-columns:1fr;gap:36px}.pgrid{grid-template-columns:1fr}}
 @media(max-width:680px){.nav-links,.nav-btn{display:none}.hbg{display:block}.skcats{grid-template-columns:1fr}.svcgrid{grid-template-columns:1fr}.educards{grid-template-columns:1fr}.cfrow{grid-template-columns:1fr}.aminis{grid-template-columns:1fr}
-/ Scroll reveal
+// Scroll reveal
 const io=new IntersectionObserver(entries=>entries.forEach(e=>{
   if(e.isIntersecting)e.target.classList.add("on");
 }),{threshold:.1});
